@@ -82,10 +82,3 @@ Berikut adalah keluaran yang diharapkan.
 10S1002|12S22999|AB|7.00
 
 ```
-
-## Submission
-1. academic.c
-2. changelog.txt
-
-## How to submit?
-Please see https://youtu.be/g0BQ195-aWo
